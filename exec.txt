@@ -1,0 +1,9 @@
+Run programa.c
+
+Run programa1.c
+
+Run programa2.c
+ 
+Run programa3.c I=20 D=5
+
+Run programa3.c I=80 D=5
