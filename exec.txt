@@ -1,9 +1,6 @@
-Run programa.c
+Run ./prog1 I=5 D=5
+Run ./prog2
+Run ./prog3
+Run ./prog4 I=10 D=10
+Run ./prog8 I=8 D=7
 
-Run programa1.c
-
-Run programa2.c
- 
-Run programa3.c I=20 D=5
-
-Run programa3.c I=80 D=5
